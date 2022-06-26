@@ -8,7 +8,7 @@ var zahirr = db.get("supra");
 	console.log('')
 }
 var fs = require('fs');
-var creatorList = ['@supra'];
+var creatorList = ['@vlad'];
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)];
 
 var ytdl = require('ytdl-core');
@@ -158,7 +158,7 @@ loghandler = {
         mensagem: 'talvez esteja sendo consertado'
     }
 }
-const listkey = ["supraz", "yuna", "lhannaBot"];
+const listkey = ["apikey", "vladtest", "vladd"];
 var len = 15
         var arr = '123456789abcdefghijklmnopqrstuvwxyz'
         var random = '';
